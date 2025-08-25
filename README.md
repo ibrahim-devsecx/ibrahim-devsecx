@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/ibrahim-devsecx/ibrahim-devsecx/blob/main/profile.png)
+![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
 
 # Ibrahim Awad
 I'm Ibrahim Awad, an **Android Developer** passionate about building secure and scalable mobile applications with clean architecture and great UX.  
