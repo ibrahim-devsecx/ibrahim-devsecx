@@ -1,7 +1,9 @@
 ![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
 
 # Ibrahim Awad
-I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+I'm Ibrahim Awad, an **Android Developer** passionate about building secure and scalable mobile applications with clean architecture and great UX.  
+I also have experience with **Databases, Linux, Windows Server, and Cybersecurity (Malware Analysis & DFIR)**, which support my development skills and help me deliver reliable apps.  
+Open to collaboration and eager to contribute to innovative projects.  
 
 ## Skills and Experience
 * ⚛ React
