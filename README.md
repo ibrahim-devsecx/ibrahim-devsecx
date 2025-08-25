@@ -5,10 +5,11 @@ I'm Ibrahim Awad, an **Android Developer** passionate about building secure and 
 I also have experience with **Databases, Linux, Windows Server, and Cybersecurity (Malware Analysis & DFIR)**, which enhance my development skills and help me deliver reliable applications.  
 Open to collaboration, eager to contribute to innovative projects, and always ready for new opportunities.   
 
-## Skills and Experience
-* ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS, JS
+## 🚀 Skills & Experience
+- **Android Development**: Java, Kotlin, Android SDK, Jetpack, UI/UX, API integration  
+- **Databases**: MySQL, SQLite  
+- **Systems**: Linux & Windows Server administration  
+- **Cybersecurity**: Malware analysis & digital forensic
 
 ## Examples of Work
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
