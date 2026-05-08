@@ -4,7 +4,7 @@
 
 I'm an Android Developer with strong fundamentals in Kotlin and Java, focused on building clean, reliable, and maintainable mobile applications.
 
-I have practical experience with Android SDK, MVVM architecture, Firebase, Room Database, Retrofit, Coroutines, Flow, offline caching, and media/file handling.  
+I have practical experience with Android SDK, MVVM architecture, Firebase, Room Database, Retrofit, Coroutines, Flow, offline caching, media/file handling, and location-based features.  
 I also have a Cybersecurity Engineering background, which helps me build more security-aware and reliable Android solutions.
 
 ---
@@ -24,6 +24,8 @@ I also have a Cybersecurity Engineering background, which helps me build more se
 **Firebase:** Authentication, Firestore, Realtime Database, Firebase Cloud Messaging  
 
 **Media:** Media3 ExoPlayer, FFmpegKit, Android Storage APIs  
+
+**Location & Maps:** Google Maps, Location Services, GPS, Map-based Features  
 
 **Debugging & Tools:** Android Studio, Gradle, Git, GitHub, Postman, Logcat, Android Debugger  
 
@@ -46,6 +48,24 @@ Kotlin, MVVM, FFmpegKit, Media3 ExoPlayer, Room, Coroutines, StateFlow
 - Manage UI state using StateFlow
 - Run media and file operations off the main thread using Coroutines
 - Handle media selection, file access, and output saving using Android Storage APIs
+
+---
+
+### Gas Delivery App – Graduation Project
+
+Android gas delivery application that connects customers with nearby gas distributors.
+
+**Tech Stack:**  
+Android, Firebase, Google Maps, FCM, Location Services
+
+**Key Features:**
+- Customer and distributor app flows
+- Customers can place gas delivery orders
+- Distributors can receive and manage delivery requests
+- Google Maps integration for displaying distributor locations
+- Location Services for map-based order tracking
+- Firebase Cloud Messaging for order and delivery status notifications
+- Customer–distributor communication for better delivery coordination
 
 ---
 
@@ -107,4 +127,4 @@ Jun 2021
 
 ## 🚀 Profile Summary
 
-Android Developer | Kotlin & Java | MVVM | Firebase | Room | Retrofit | Coroutines | Media3 | FFmpegKit | Cybersecurity Engineering Student
+Android Developer | Kotlin & Java | MVVM | Firebase | Room | Retrofit | Coroutines | Media3 | FFmpegKit | Google Maps | Cybersecurity Engineering Student
