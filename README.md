@@ -1,19 +1,67 @@
+# Hi, I'm Ibrahim Atta Awad 👋
 
-# Ibrahim Awad
-I'm Ibrahim Awad, an **Android Developer** passionate about building secure and scalable mobile applications with clean architecture and great UX.  
-I also have experience with **Databases, Linux, Windows Server, and Cybersecurity (Malware Analysis & DFIR)**, which enhance my development skills and help me deliver reliable applications.  
-Open to collaboration, eager to contribute to innovative projects, and always ready for new opportunities.   
+I'm an Android Developer with strong fundamentals in Kotlin and Java, focused on building clean, reliable, and maintainable mobile applications.
 
-## 🚀 Skills & Experience
-- **Android Development**: Java, Kotlin, Android SDK, Jetpack, UI/UX, API integration  
-- **Databases**: MySQL, SQLite  
-- **Systems**: Linux & Windows Server administration  
-- **Cybersecurity**: Malware analysis & digital forensic
+I have practical experience with Android SDK, MVVM architecture, Firebase, Room Database, Retrofit, Coroutines, Flow, offline caching, and media/file handling.  
+I also have a Cybersecurity Engineering background, which helps me write more security-aware and reliable Android solutions.
 
-## Examples of Work
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+## 🔧 Technical Skills
 
-## ☕ Support Me
-If you like my work, consider supporting me:  
+**Languages:** Kotlin, Java  
+**Android:** Android SDK, XML, Jetpack Components, MVVM, Clean Code  
+**Networking:** Retrofit, OkHttp, RESTful APIs, JSON, API Integration  
+**Database & Storage:** Room Database, SQLite, Offline Caching, Internal/External Storage  
+**Firebase:** Authentication, Firestore, Realtime Database, FCM  
+**Async:** Kotlin Coroutines, Flow, Background Processing  
+**Media:** Media3 ExoPlayer, FFmpegKit, Basic Media & File Handling  
+**Tools:** Android Studio, Gradle, Git, GitHub, Postman, Logcat, Android Debugger  
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ibrahimdevg)
+## 📱 Featured Projects
+
+### MediaToolKit App
+Android media processing app for video picking, preview, trimming, and local history tracking.
+
+**Tech Stack:** Kotlin, MVVM, FFmpegKit, Media3 ExoPlayer, Room, Coroutines, StateFlow
+
+**Key Features:**
+- Pick and preview video files inside the app
+- Trim selected videos using FFmpegKit
+- Store processing history using Room Database
+- Handle background media/file operations with Coroutines
+- Use Android Storage APIs for file selection and output saving
+
+---
+
+### Talabati App – Feature Contribution
+Contributed to location-based and offline-friendly features in the Talabati Android application.
+
+**Work Included:**
+- Map-based location display
+- GPS distance calculation
+- Direction guidance logic
+- Third-party map library integration
+- BroadcastReceiver logic for offline SMS/order notifications
+
+---
+
+### Freelance Android App
+Developed and delivered a custom Android application using Java, earning a 5-star client rating.
+
+**Work Included:**
+- Firebase Authentication
+- Firebase Realtime Database
+- Firebase Cloud Messaging
+- Testing and debugging using Logcat and Android Debugger
+
+## 🎯 Current Focus
+
+- Improving Android architecture skills
+- Building portfolio-ready Android apps
+- Working with Kotlin, Coroutines, Room, Retrofit, and Media3
+- Learning more about scalable and secure mobile application development
+
+## 📫 Contact
+
+- Email: ibrahim.devsecx@outlook.com
+- LinkedIn: Add your LinkedIn link here
+- GitHub: Add your GitHub profile link here
