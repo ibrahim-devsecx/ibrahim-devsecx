@@ -1,38 +1,56 @@
 # Hi, I'm Ibrahim Atta Awad 👋
 
+**Android Developer | Kotlin & Java**
+
 I'm an Android Developer with strong fundamentals in Kotlin and Java, focused on building clean, reliable, and maintainable mobile applications.
 
 I have practical experience with Android SDK, MVVM architecture, Firebase, Room Database, Retrofit, Coroutines, Flow, offline caching, and media/file handling.  
-I also have a Cybersecurity Engineering background, which helps me write more security-aware and reliable Android solutions.
+I also have a Cybersecurity Engineering background, which helps me build more security-aware and reliable Android solutions.
+
+---
 
 ## 🔧 Technical Skills
 
-**Languages:** Kotlin, Java  
-**Android:** Android SDK, XML, Jetpack Components, MVVM, Clean Code  
-**Networking:** Retrofit, OkHttp, RESTful APIs, JSON, API Integration  
-**Database & Storage:** Room Database, SQLite, Offline Caching, Internal/External Storage  
-**Firebase:** Authentication, Firestore, Realtime Database, FCM  
-**Async:** Kotlin Coroutines, Flow, Background Processing  
-**Media:** Media3 ExoPlayer, FFmpegKit, Basic Media & File Handling  
-**Tools:** Android Studio, Gradle, Git, GitHub, Postman, Logcat, Android Debugger  
+**Programming:** Kotlin, Java  
+
+**Android Development:** Android SDK, XML, Jetpack Components, MVVM, Clean Code  
+
+**Networking:** RESTful APIs, Retrofit, OkHttp, JSON, API Integration  
+
+**Database & Storage:** Room Database, SQLite, Offline Caching, Internal/External Storage, Basic Media & File Handling  
+
+**Asynchronous Programming:** Kotlin Coroutines, Flow, Background Processing  
+
+**Firebase:** Authentication, Firestore, Realtime Database, Firebase Cloud Messaging  
+
+**Media:** Media3 ExoPlayer, FFmpegKit, Android Storage APIs  
+
+**Debugging & Tools:** Android Studio, Gradle, Git, GitHub, Postman, Logcat, Android Debugger  
+
+---
 
 ## 📱 Featured Projects
 
 ### MediaToolKit App
-Android media processing app for video picking, preview, trimming, and local history tracking.
 
-**Tech Stack:** Kotlin, MVVM, FFmpegKit, Media3 ExoPlayer, Room, Coroutines, StateFlow
+Android media processing app focused on video picking, preview, trimming, and local history tracking.
+
+**Tech Stack:**  
+Kotlin, MVVM, FFmpegKit, Media3 ExoPlayer, Room, Coroutines, StateFlow
 
 **Key Features:**
 - Pick and preview video files inside the app
 - Trim selected videos using FFmpegKit
+- Use Media3 ExoPlayer for in-app video playback
 - Store processing history using Room Database
-- Handle background media/file operations with Coroutines
-- Use Android Storage APIs for file selection and output saving
+- Manage UI state using StateFlow
+- Run media and file operations off the main thread using Coroutines
+- Handle media selection, file access, and output saving using Android Storage APIs
 
 ---
 
 ### Talabati App – Feature Contribution
+
 Contributed to location-based and offline-friendly features in the Talabati Android application.
 
 **Work Included:**
@@ -40,11 +58,13 @@ Contributed to location-based and offline-friendly features in the Talabati Andr
 - GPS distance calculation
 - Direction guidance logic
 - Third-party map library integration
-- BroadcastReceiver logic for offline SMS/order notifications
+- Offline-friendly map/location functionality
+- BroadcastReceiver logic for offline SMS/order notifications when internet access was unavailable
 
 ---
 
 ### Freelance Android App
+
 Developed and delivered a custom Android application using Java, earning a 5-star client rating.
 
 **Work Included:**
@@ -52,16 +72,39 @@ Developed and delivered a custom Android application using Java, earning a 5-sta
 - Firebase Realtime Database
 - Firebase Cloud Messaging
 - Testing and debugging using Logcat and Android Debugger
+- Applying clean code and basic secure coding practices
+
+---
 
 ## 🎯 Current Focus
 
 - Improving Android architecture skills
-- Building portfolio-ready Android apps
-- Working with Kotlin, Coroutines, Room, Retrofit, and Media3
+- Building portfolio-ready Android applications
+- Working with Kotlin, MVVM, Room, Retrofit, Firebase, Coroutines, and Media3
 - Learning more about scalable and secure mobile application development
+
+---
+
+## 🎓 Education
+
+**Bachelor’s Degree in Cybersecurity Engineering**  
+University College of Applied Sciences  
+Expected Dec 2026
+
+**Diploma in Mobile Development**  
+University College of Applied Sciences  
+Jun 2021
+
+---
 
 ## 📫 Contact
 
-- Email: ibrahim.devsecx@outlook.com
-- LinkedIn: Add your LinkedIn link here
-- GitHub: Add your GitHub profile link here
+- **Email:** ibrahim.devsecx@outlook.com
+- **GitHub:** [github.com/ibrahim-devsecx](https://github.com/ibrahim-devsecx)
+- **LinkedIn:** [linkedin.com/in/ibrahim-awad-devsecx](https://www.linkedin.com/in/ibrahim-awad-devsecx/)
+
+---
+
+## 🚀 Profile Summary
+
+Android Developer | Kotlin & Java | MVVM | Firebase | Room | Retrofit | Coroutines | Media3 | FFmpegKit | Cybersecurity Engineering Student
