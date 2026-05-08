@@ -120,7 +120,6 @@ Jun 2021
 ## 📫 Contact
 
 - **Email:** ibrahim.devsecx@outlook.com
-- **GitHub:** [github.com/ibrahim-devsecx](https://github.com/ibrahim-devsecx)
 - **LinkedIn:** [linkedin.com/in/ibrahim-awad-devsecx](https://www.linkedin.com/in/ibrahim-awad-devsecx/)
 
 ---
