@@ -1,88 +1,130 @@
-# Hi, I'm Ibrahim Awad 👋
+<h1 align="center">Hi, I'm Ibrahim Awad 👋</h1>
 
-I'm an **Android Developer** passionate about building clean, reliable, and maintainable mobile applications using **Kotlin** and **Java**.
+<p align="center">
+  Android Developer<br>
+  Kotlin · Java · MVVM · Firebase · Room · Retrofit
+</p>
 
-I have practical experience with **Android SDK, MVVM, Firebase, Room Database, Retrofit, Coroutines, Flow, Google Maps, Media3, and FFmpegKit**.
-
-I also have a **Cybersecurity Engineering** background, which helps me build more security-aware and reliable Android solutions.
-
-Open to collaboration, learning, and new Android development opportunities.
-
----
-
-## 🚀 Skills & Experience
-
-- **Android Development:** Kotlin, Java, Android SDK, XML, Jetpack Components, MVVM  
-- **Architecture:** Clean Code, MVVM, Repository Pattern, StateFlow  
-- **Networking:** REST APIs, Retrofit, OkHttp, JSON, Postman  
-- **Database & Storage:** Room Database, SQLite, Offline Caching, Internal/External Storage  
-- **Firebase:** Authentication, Firestore, Realtime Database, Firebase Cloud Messaging  
-- **Media:** Media3 ExoPlayer, FFmpegKit, Android Storage APIs  
-- **Maps & Location:** Google Maps, GPS, Location Services  
-- **Tools:** Android Studio, Gradle, Git, GitHub, Logcat, Android Debugger  
-- **Cybersecurity Background:** Secure coding awareness, Linux basics, security-minded development  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ibrahim-awad-devsecx/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:ibrahim.devsecx@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
-## 📱 Examples of Work
+## 👨‍💻 About Me
 
-### MediaToolKit App
+Android Developer with practical experience in building clean, reliable, and maintainable mobile applications using Kotlin and Java.
+
+I work with Android SDK, MVVM architecture, Firebase, Room Database, Retrofit, Coroutines, Flow, Media3, FFmpegKit, and Google Maps.
+
+I also have a Cybersecurity Engineering background, which helps me build more security-aware and reliable Android solutions.
+
+Interested in building real-world Android applications, improving app architecture, and contributing to clean and scalable mobile projects.
+
+---
+
+## 🧠 Core Expertise
+
+- Android Development with Kotlin and Java
+- MVVM Architecture and Clean Code
+- REST API integration using Retrofit and OkHttp
+- Local storage using Room Database and SQLite
+- Firebase Authentication, Realtime Database, Firestore, and FCM
+- Coroutines, Flow, StateFlow, and background processing
+- Media handling with Media3 ExoPlayer and FFmpegKit
+- Google Maps, GPS, and location-based features
+- Debugging using Logcat and Android Debugger
+- Security-aware mobile development
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 MediaToolKit App
 
 Android media processing app focused on video picking, preview, trimming, and local history tracking.
 
-**Tech Stack:** Kotlin, MVVM, FFmpegKit, Media3 ExoPlayer, Room, Coroutines, StateFlow
-
-**Features:**
-- Pick and preview video files
-- Trim videos using FFmpegKit
+- Pick and preview video files inside the app
+- Trim selected videos using FFmpegKit
 - Play videos using Media3 ExoPlayer
 - Store processing history using Room Database
 - Manage UI state using StateFlow
-- Run media operations off the main thread using Coroutines
+- Run media and file operations off the main thread using Coroutines
+
+**Tech Stack:** Kotlin · MVVM · FFmpegKit · Media3 ExoPlayer · Room · Coroutines · StateFlow
 
 ---
 
-### Gas Delivery App
+### 🛵 Gas Delivery App
 
 Android gas delivery application that connects customers with nearby gas distributors.
 
-**Tech Stack:** Android, Firebase, Google Maps, FCM, Location Services
-
-**Features:**
-- Customer and distributor flows
+- Customer and distributor app flows
 - Gas delivery order management
-- Google Maps integration
-- Location-based tracking
-- Push notifications using Firebase Cloud Messaging
+- Google Maps integration for distributor locations
+- Location Services for map-based tracking
+- Firebase Cloud Messaging for order status notifications
+- Customer–distributor communication
+
+**Tech Stack:** Android · Firebase · Google Maps · FCM · Location Services
 
 ---
 
-### Freelance Android App
+### 📍 Talabati App – Feature Contribution
 
-Developed and delivered a custom Android application using Java, earning a **5-star client rating**.
+Contributed to location-based and offline-friendly features in the Talabati Android application.
 
-**Work Included:**
+- Map-based location display
+- GPS distance calculation
+- Direction guidance logic
+- Third-party map library integration
+- Offline-friendly map/location functionality
+- BroadcastReceiver logic for offline SMS/order notifications
+
+---
+
+### ⭐ Freelance Android App
+
+Developed and delivered a custom Android application using Java, earning a 5-star client rating.
+
 - Firebase Authentication
 - Firebase Realtime Database
 - Firebase Cloud Messaging
 - Testing and debugging using Logcat and Android Debugger
+- Clean code and basic secure coding practices
 
 ---
 
-## 📫 Connect with Me
+## 🛠 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim%20Awad-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ibrahim-awad-devsecx)
-
-[![Email](https://img.shields.io/badge/Email-ibrahim.devsecx%40outlook.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahim.devsecx@outlook.com)
+Kotlin · Java · Android SDK · XML · MVVM · Retrofit · OkHttp · Room · SQLite · Firebase · Coroutines · Flow · StateFlow · Media3 · FFmpegKit · Google Maps · Gradle · Git · GitHub · Postman
 
 ---
 
-## ☕ Support Me
+## 🎓 Education
 
-If you like my work, consider supporting me:
+**Bachelor’s Degree in Cybersecurity Engineering**  
+University College of Applied Sciences  
+Expected Dec 2026
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ibrahimdevg)
+**Diploma in Mobile Development**  
+University College of Applied Sciences  
+Jun 2021
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ibrahim-devsecx&style=for-the-badge)
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/ibrahim-awad-devsecx/
+- Email: ibrahim.devsecx@outlook.com
+
+---
+
+<p align="center">
+  <i>Focused on building clean, reliable, and security-aware Android applications.</i>
+</p>
