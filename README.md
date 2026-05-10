@@ -2,7 +2,7 @@
 
 <p align="center">
   Android Developer<br>
-  Kotlin · Java · MVVM · Firebase · Room · Retrofit
+  Kotlin · Java · Clean Architecture · MVVM · Coroutines · Flow · Room · Retrofit
 </p>
 
 <p align="center">
