@@ -269,7 +269,6 @@ I'm open to **Android Developer opportunities**, **freelance projects**, and **t
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a7b6be,50:8a9aa3,100:6f7f88&height=120&section=footer&text=Built%20with%20Clean%20Android%20Code%20and%20Ambition&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" alt="" />
 
 _"First, solve the problem. Then, write the code." — John Johnson_
 
