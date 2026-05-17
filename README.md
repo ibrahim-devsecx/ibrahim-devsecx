@@ -78,6 +78,32 @@ Interested in building real-world Android applications, improving app architectu
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   ARCHITECTURE FINGERPRINT                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🧱 Architecture Fingerprint
+
+```mermaid
+flowchart LR
+    UI["📱 UI Layer\nActivity / Fragment / XML"] --> VM["⚙️ ViewModel\nStateFlow / LiveData"]
+    VM --> UC["🧩 Use Cases\nBusiness Logic"]
+    UC --> REPO["📦 Repository\nSingle Source of Truth"]
+    REPO --> API["🌐 Remote Data Source\nRetrofit / OkHttp"]
+    REPO --> DB["💾 Local Data Source\nRoom / SQLite"]
+
+    style UI fill:#3DDC84,color:#073042,stroke:#3DDC84,stroke-width:2px
+    style VM fill:#4285F4,color:#ffffff,stroke:#4285F4,stroke-width:2px
+    style UC fill:#7F52FF,color:#ffffff,stroke:#7F52FF,stroke-width:2px
+    style REPO fill:#073042,color:#E6EDF3,stroke:#3DDC84,stroke-width:2px
+    style API fill:#0B1F33,color:#3DDC84,stroke:#3DDC84,stroke-width:2px
+    style DB fill:#0B1F33,color:#4285F4,stroke:#4285F4,stroke-width:2px
+```
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                       TECH STACK                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -245,6 +271,8 @@ Contributed to map-based location display, GPS distance calculation, direction g
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-devsecx&theme=tokyonight&hide_border=false&border_radius=6&stroke=ffffff&ring=70a5fd&fire=70a5fd&currStreakNum=c792ea&sideNums=70a5fd&currStreakLabel=c792ea&sideLabels=70a5fd&dates=40e0d0" width="70%" alt="Ibrahim's GitHub Streak" />
 
+</div>
+
 <br/>
 
 ---
@@ -261,15 +289,13 @@ I'm open to **Android Developer opportunities**, **freelance projects**, and **t
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-awad-devsecx/)
-[![Email Me](https://img.shields.io/badge/Send_an_Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ibrahim.devsecx@outlook.com)
-[![GitHub Follow](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-devsecx)
+📫 **Email:** [ibrahim.devsecx@outlook.com](mailto:ibrahim.devsecx@outlook.com)
 
 <br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim%20Awad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-awad-devsecx/)
+[![GitHub](https://img.shields.io/badge/GitHub-ibrahim--devsecx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-devsecx)
 
-
-_"First, solve the problem. Then, write the code." — John Johnson_
+<br/>
 
 </div>
