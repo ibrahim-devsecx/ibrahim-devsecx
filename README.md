@@ -1,130 +1,285 @@
-<h1 align="center">Hi, I'm Ibrahim Awad 👋</h1>
+<div align="center">
 
-<p align="center">
-  Android Developer<br>
-  Kotlin · Java · Clean Architecture · MVVM · Coroutines · Flow · Room · Retrofit
-</p>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        HEADER BANNER                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ibrahim-awad-devsecx/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:ibrahim.devsecx@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f7f88,50:8a9aa3,100:a7b6be&height=230&section=header&text=Ibrahim%20Awad&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=Android%20Developer%20%7C%20Kotlin%20and%20Java%20%7C%20Clean%20Mobile%20Architecture&descSize=16&descColor=ffffff&animation=fadeIn" width="100%" />
+
+<br/>
+
+### 👋 Hello, World! I'm **Ibrahim Awad**
+
+**Android Developer · Gaza City, Palestine 🇵🇸**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ibrahim--awad--devsecx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-awad-devsecx/)
+[![Email](https://img.shields.io/badge/Email-ibrahim.devsecx%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ibrahim.devsecx@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ibrahim--devsecx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-devsecx)
+[![Profile Views](https://komarev.com/ghpvc/?username=ibrahim-devsecx&style=for-the-badge&color=6f7f88&label=PROFILE+VIEWS)](https://github.com/ibrahim-devsecx)
+
+</div>
+
+<br/>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                         ABOUT ME                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 👨‍💻 About Me
 
-Android Developer with practical experience in building clean, reliable, and maintainable mobile applications using Kotlin and Java.
+Android Developer with practical experience in building clean, reliable, and maintainable mobile applications using **Kotlin** and **Java**.
 
-I work with Android SDK, MVVM architecture, Firebase, Room Database, Retrofit, Coroutines, Flow, Media3, FFmpegKit, and Google Maps.
+I work with **Android SDK**, **MVVM architecture**, **Firebase**, **Room Database**, **Retrofit**, **Coroutines**, **Flow**, **Media3**, **FFmpegKit**, and **Google Maps**.
 
-I also have a Cybersecurity Engineering background, which helps me build more security-aware and reliable Android solutions.
+I also have a **Cybersecurity Engineering** background, which helps me build more security-aware and reliable Android solutions.
 
 Interested in building real-world Android applications, improving app architecture, and contributing to clean and scalable mobile projects.
 
----
+<br/>
 
-## 🧠 Core Expertise
+> 🎯 **My engineering philosophy:** _Good Android apps are not just screens — they are reliable and secure systems._  
+> As an Android developer with a cybersecurity mindset, I focus on building mobile applications with clean architecture, readable code, secure data handling, smooth performance, and real-world reliability.
 
-- Android Development with Kotlin and Java
-- MVVM Architecture and Clean Code
-- REST API integration using Retrofit and OkHttp
-- Local storage using Room Database and SQLite
-- Firebase Authentication, Realtime Database, Firestore, and FCM
-- Coroutines, Flow, StateFlow, and background processing
-- Media handling with Media3 ExoPlayer and FFmpegKit
-- Google Maps, GPS, and location-based features
-- Debugging using Logcat and Android Debugger
-- Security-aware mobile development
+<br/>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    WHAT I WORK WITH                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🛠️ What I Work With
+
+<div align="center">
+
+| Area | Technologies and Concepts |
+| :--: | :-- |
+| **Native Android** | Kotlin, Java, Android SDK, XML |
+| **Architecture** | MVVM, Clean Architecture, Clean Code, Maintainable App Structure |
+| **Android Jetpack** | ViewModel, LiveData, Navigation Component |
+| **Android Components** | Services, Broadcast Receivers, Content Providers |
+| **Networking** | REST APIs, Retrofit, OkHttp |
+| **Local Storage** | Room Database, SQLite, Offline Storage |
+| **Async Programming** | Kotlin Coroutines, Flow, StateFlow |
+| **Firebase** | Authentication, Realtime Database, Firestore, FCM |
+| **Storage and Files** | Internal Storage, External Storage, Media Access, Content URIs |
+| **Maps and Location** | Google Maps, GPS, Location Services |
+| **Media Tools** | FFmpeg, FFmpegKit, Media3 ExoPlayer, Video Processing, Playback |
+| **Debugging** | Logcat, Android Debugger, Problem Solving |
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,firebase,sqlite,git,github,postman" height="120" />
+</a>
+
+<br/><br/>
+
+![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-0f2027?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-203a43?style=for-the-badge)
+![Room](https://img.shields.io/badge/Room_Database-2c5364?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Media3](https://img.shields.io/badge/Media3_ExoPlayer-FF6F00?style=for-the-badge)
+![FFmpegKit](https://img.shields.io/badge/FFmpegKit-007808?style=for-the-badge)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     FEATURED PROJECTS                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
 ### 🎬 MediaToolKit App
 
-Android media processing app focused on video picking, preview, trimming, and local history tracking.
+**Android media processing app focused on video picking, preview, trimming, and local history tracking.**
 
-- Pick and preview video files inside the app
-- Trim selected videos using FFmpegKit
-- Play videos using Media3 ExoPlayer
-- Store processing history using Room Database
-- Manage UI state using StateFlow
-- Run media and file operations off the main thread using Coroutines
+Built with clean state management and background processing — handling media files, playback, trimming, and local history in a maintainable Android structure.
 
-**Tech Stack:** Kotlin · MVVM · FFmpegKit · Media3 ExoPlayer · Room · Coroutines · StateFlow
+<br/>
 
----
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-devsecx/MediaToolKit)
+
+<br/><br/>
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-2C5364?style=flat-square)
+![FFmpegKit](https://img.shields.io/badge/FFmpegKit-007808?style=flat-square)
+![Media3](https://img.shields.io/badge/Media3_ExoPlayer-FF6F00?style=flat-square)
+![Room](https://img.shields.io/badge/Room-2C5364?style=flat-square)
+![StateFlow](https://img.shields.io/badge/StateFlow-7F52FF?style=flat-square)
+
+</td>
+<td width="33%" align="center" valign="top">
 
 ### 🛵 Gas Delivery App
 
-Android gas delivery application that connects customers with nearby gas distributors.
+<br/>
 
-- Customer and distributor app flows
-- Gas delivery order management
-- Google Maps integration for distributor locations
-- Location Services for map-based tracking
-- Firebase Cloud Messaging for order status notifications
-- Customer–distributor communication
+**Android gas delivery application that connects customers with nearby gas distributors.**
 
-**Tech Stack:** Android · Firebase · Google Maps · FCM · Location Services
+Includes customer and distributor app flows, order management, Google Maps integration, location services, Firebase Cloud Messaging, and customer-distributor communication.
+
+<br/>
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-devsecx/GasApp)
+
+<br/><br/>
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![FCM](https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Location](https://img.shields.io/badge/Location_Services-34A853?style=flat-square)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 📍 Talabati App
+
+<br/>
+
+**Feature contribution focused on location-based and offline-friendly Android functionality.**
+
+Contributed to map-based location display, GPS distance calculation, direction guidance logic, third-party map library integration, and BroadcastReceiver logic for offline SMS/order notifications.
+
+<br/>
+
+[![Contribution](https://img.shields.io/badge/Feature_Contribution-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+
+<br/><br/>
+
+![GPS](https://img.shields.io/badge/GPS-2C5364?style=flat-square)
+![Maps](https://img.shields.io/badge/Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![Offline](https://img.shields.io/badge/Offline_Friendly-203A43?style=flat-square)
+![BroadcastReceiver](https://img.shields.io/badge/BroadcastReceiver-0F2027?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 ---
 
-### 📍 Talabati App – Feature Contribution
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    FREELANCE EXPERIENCE                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-Contributed to location-based and offline-friendly features in the Talabati Android application.
+## ⭐ Freelance Android Experience
 
-- Map-based location display
-- GPS distance calculation
-- Direction guidance logic
-- Third-party map library integration
-- Offline-friendly map/location functionality
-- BroadcastReceiver logic for offline SMS/order notifications
+<div align="center">
 
----
+| Project | Details |
+| :--: | :-- |
+| ![Freelance](https://img.shields.io/badge/Freelance_Android_App-181717?style=for-the-badge&logo=android&logoColor=white) | Developed and delivered a custom Android application using Java, earning a 5-star client rating |
+| ![Firebase Auth](https://img.shields.io/badge/Firebase_Authentication-FFCA28?style=flat-square&logo=firebase&logoColor=black) | Implemented user authentication and account access logic |
+| ![Realtime DB](https://img.shields.io/badge/Realtime_Database-FFCA28?style=flat-square&logo=firebase&logoColor=black) | Worked with Firebase Realtime Database for app data |
+| ![FCM](https://img.shields.io/badge/Firebase_Cloud_Messaging-FFCA28?style=flat-square&logo=firebase&logoColor=black) | Added push notification support using FCM |
+| ![Debugging](https://img.shields.io/badge/Testing_and_Debugging-2C5364?style=flat-square) | Tested and debugged app flows using Logcat and Android Debugger |
 
-### ⭐ Freelance Android App
+</div>
 
-Developed and delivered a custom Android application using Java, earning a 5-star client rating.
-
-- Firebase Authentication
-- Firebase Realtime Database
-- Firebase Cloud Messaging
-- Testing and debugging using Logcat and Android Debugger
-- Clean code and basic secure coding practices
+<br/>
 
 ---
 
-## 🛠 Tech Stack
-
-Kotlin · Java · Android SDK · XML · MVVM · Retrofit · OkHttp · Room · SQLite · Firebase · Coroutines · Flow · StateFlow · Media3 · FFmpegKit · Google Maps · Gradle · Git · GitHub · Postman
-
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                         EDUCATION                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🎓 Education
 
-**Bachelor’s Degree in Cybersecurity Engineering**  
-University College of Applied Sciences  
-Expected Dec 2026
+<div align="center">
 
-**Diploma in Mobile Development**  
-University College of Applied Sciences  
-Jun 2021
+| Degree | Institution | Date |
+| :--: | :-- | :--: |
+| **Bachelor’s Degree in Cybersecurity Engineering** | University College of Applied Sciences | Expected Dec 2026 |
+| **Diploma in Mobile Development** | University College of Applied Sciences | Jun 2021 |
 
----
+</div>
 
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/ibrahim-awad-devsecx/
-- Email: ibrahim.devsecx@outlook.com
+<br/>
 
 ---
 
-<p align="center">
-  <i>Focused on building clean, reliable, and security-aware Android applications.</i>
-</p>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       GITHUB STATS                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-devsecx&theme=tokyonight&hide_border=false&border_radius=6&stroke=ffffff&ring=70a5fd&fire=70a5fd&currStreakNum=c792ea&sideNums=70a5fd&currStreakLabel=c792ea&sideLabels=70a5fd&dates=40e0d0" width="70%" alt="Ibrahim's GitHub Streak" />
+
+<br/>
+<br/>
+
+<a href="https://github.com/ibrahim-devsecx">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-devsecx&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=false&custom_title=Contribution%20Graph" width="95%" alt="Ibrahim's Contribution Graph" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      CONNECT WITH ME                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm open to **Android Developer opportunities**, **freelance projects**, and **technical collaboration**.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-awad-devsecx/)
+[![Email Me](https://img.shields.io/badge/Send_an_Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ibrahim.devsecx@outlook.com)
+[![GitHub Follow](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-devsecx)
+
+<br/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a7b6be,50:8a9aa3,100:6f7f88&height=120&section=footer&text=Built%20with%20Clean%20Android%20Code%20and%20Ambition&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" alt="" />
+
+_"First, solve the problem. Then, write the code." — John Johnson_
+
+</div>
