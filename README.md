@@ -63,16 +63,18 @@ Interested in building real-world Android applications, improving app architectu
 <br/>
 
 ---
-
-## Architecture Fingerprint
+## How I Structure Android Apps
 
 ```mermaid
 flowchart LR
-    UI["UI Layer\nActivity / Fragment / XML"] --> VM["ViewModel\nStateFlow / LiveData"]
+    UI["UI Layer\nActivity / Fragment / XML"] --> VM["ViewModel\nUI State / StateFlow"]
     VM --> UC["Use Cases\nBusiness Logic"]
-    UC --> REPO["Repository\nSingle Source of Truth"]
+    UC --> REPO["Repository\nData Gateway"]
     REPO --> API["Remote Data Source\nRetrofit / OkHttp"]
     REPO --> DB["Local Data Source\nRoom / SQLite"]
+
+    API -. "Fetch / Sync" .-> REPO
+    DB -. "Cache / Offline Data" .-> REPO
 
     style UI fill:#3DDC84,color:#073042,stroke:#3DDC84,stroke-width:2px
     style VM fill:#4285F4,color:#ffffff,stroke:#4285F4,stroke-width:2px
@@ -80,6 +82,7 @@ flowchart LR
     style REPO fill:#073042,color:#E6EDF3,stroke:#3DDC84,stroke-width:2px
     style API fill:#0B1F33,color:#3DDC84,stroke:#3DDC84,stroke-width:2px
     style DB fill:#0B1F33,color:#4285F4,stroke:#4285F4,stroke-width:2px
+
 ```
 
 <br/>
@@ -121,69 +124,66 @@ flowchart LR
 <tr>
 <td width="33%" align="center" valign="top">
 
-### MediaToolKit App
+### 🎬 MediaToolKit App
 
-**Android media processing app focused on video picking, preview, trimming, and local history tracking.**
+**A native Android media processing app focused on video selection, preview, trimming, and local history tracking.**
 
-Built with clean state management and background processing — handling media files, playback, trimming, and local history in a maintainable Android structure.
+Built with a clean and maintainable Android structure, using modern media handling, playback, background processing, and local data persistence.
 
 <br/>
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-devsecx/MediaToolKit)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-devsecx/MediaToolKitApp)
 
 <br/><br/>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-2C5364?style=flat-square)
 ![FFmpegKit](https://img.shields.io/badge/FFmpegKit-007808?style=flat-square)
-![Media3](https://img.shields.io/badge/Media3_ExoPlayer-FF6F00?style=flat-square)
+![Media3](https://img.shields.io/badge/Media3-FF6F00?style=flat-square)
 ![Room](https://img.shields.io/badge/Room-2C5364?style=flat-square)
-![StateFlow](https://img.shields.io/badge/StateFlow-7F52FF?style=flat-square)
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### Gas Delivery App
+### 🚚 Gas Delivery User App
+
+**A customer-side Android application for requesting gas delivery services and tracking delivery-related interactions.**
+
+The app focuses on service requests, customer experience, location-based features, Firebase integration, and real-world ordering flow.
 
 <br/>
 
-**Android gas delivery application that connects customers with nearby gas distributors.**
-
-Includes customer and distributor app flows, order management, Google Maps integration, location services, Firebase Cloud Messaging, and customer-distributor communication.
-
-<br/>
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-devsecx/GasApp)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-devsecx/GasDelivery-User-App)
 
 <br/><br/>
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 ![FCM](https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Location](https://img.shields.io/badge/Location_Services-34A853?style=flat-square)
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### Talabati App
+### 🛠️ Gas Delivery Manager App
+
+**A manager-side Android application for handling gas delivery requests and managing service operations.**
+
+Designed to support order review, request management, delivery workflow control, Firebase-based data handling, and communication between customers and service providers.
 
 <br/>
 
-**Feature contribution focused on location-based and offline-friendly Android functionality.**
-
-Contributed to map-based location display, GPS distance calculation, direction guidance logic, third-party map library integration, and BroadcastReceiver logic for offline SMS/order notifications.
-
-<br/>
-
-[![Contribution](https://img.shields.io/badge/Feature_Contribution-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-devsecx/GasDelivery-Manager-App)
 
 <br/><br/>
 
-![GPS](https://img.shields.io/badge/GPS-2C5364?style=flat-square)
-![Maps](https://img.shields.io/badge/Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-![Offline](https://img.shields.io/badge/Offline_Friendly-203A43?style=flat-square)
-![BroadcastReceiver](https://img.shields.io/badge/BroadcastReceiver-0F2027?style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Orders](https://img.shields.io/badge/Order_Management-203A43?style=flat-square)
+![Location](https://img.shields.io/badge/Location_Services-34A853?style=flat-square)
 
 </td>
 </tr>
@@ -194,22 +194,6 @@ Contributed to map-based location display, GPS distance calculation, direction g
 <br/>
 
 ---
-
-## Freelance Android Experience
-
-<div align="center">
-
-| Project | Details |
-| :--: | :-- |
-| ![Freelance](https://img.shields.io/badge/Freelance_Android_App-181717?style=for-the-badge&logo=android&logoColor=white) | Developed and delivered a custom Android application using Java, earning a 5-star client rating |
-| ![Firebase Auth](https://img.shields.io/badge/Firebase_Authentication-FFCA28?style=flat-square&logo=firebase&logoColor=black) | Implemented user authentication and account access logic |
-| ![Realtime DB](https://img.shields.io/badge/Realtime_Database-FFCA28?style=flat-square&logo=firebase&logoColor=black) | Worked with Firebase Realtime Database for app data |
-| ![FCM](https://img.shields.io/badge/Firebase_Cloud_Messaging-FFCA28?style=flat-square&logo=firebase&logoColor=black) | Added push notification support using FCM |
-| ![Debugging](https://img.shields.io/badge/Testing_and_Debugging-2C5364?style=flat-square) | Tested and debugged app flows using Logcat and Android Debugger |
-
-</div>
-
-<br/>
 
 ---
 
