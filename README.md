@@ -1,23 +1,18 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        HEADER BANNER                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f7f88,50:8a9aa3,100:a7b6be&height=230&section=header&text=Ibrahim%20Awad&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=Android%20Developer%20%7C%20Kotlin%20and%20Java%20%7C%20Clean%20Mobile%20Architecture&descSize=16&descColor=ffffff&animation=fadeIn" width="100%" />
 
 <br/>
 
-### 👋 Hello, World! I'm **Ibrahim Awad**
+### Hello, World! I'm **Ibrahim Awad**
 
-**Android Developer · Gaza City, Palestine 🇵🇸**
+**Android Developer · Gaza City, Palestine**
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ibrahim--awad--devsecx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-awad-devsecx/)
 [![Email](https://img.shields.io/badge/Email-ibrahim.devsecx%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ibrahim.devsecx@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ibrahim--devsecx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-devsecx)
-<!-- [![Profile Views](https://komarev.com/ghpvc/?username=ibrahim-devsecx&style=for-the-badge&color=6f7f88&label=PROFILE+VIEWS)](https://github.com/ibrahim-devsecx) -->
 
 </div>
 
@@ -25,11 +20,7 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 👨‍💻 About Me
+## About Me
 
 Android Developer with practical experience in building clean, reliable, and maintainable mobile applications using **Kotlin** and **Java**.
 
@@ -41,18 +32,14 @@ Interested in building real-world Android applications, improving app architectu
 
 <br/>
 
-> 🎯 **My engineering philosophy:** _Good Android apps are not just screens — they are reliable and secure systems._  
+> **My engineering philosophy:** _Good Android apps are not just screens — they are reliable and secure systems._  
 > As an Android developer with a cybersecurity mindset, I focus on building mobile applications with clean architecture, readable code, secure data handling, smooth performance, and real-world reliability.
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    WHAT I WORK WITH                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🛠️ What I Work With
+## What I Work With
 
 <div align="center">
 
@@ -77,19 +64,15 @@ Interested in building real-world Android applications, improving app architectu
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   ARCHITECTURE FINGERPRINT                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🧱 Architecture Fingerprint
+## Architecture Fingerprint
 
 ```mermaid
 flowchart LR
-    UI["📱 UI Layer\nActivity / Fragment / XML"] --> VM["⚙️ ViewModel\nStateFlow / LiveData"]
-    VM --> UC["🧩 Use Cases\nBusiness Logic"]
-    UC --> REPO["📦 Repository\nSingle Source of Truth"]
-    REPO --> API["🌐 Remote Data Source\nRetrofit / OkHttp"]
-    REPO --> DB["💾 Local Data Source\nRoom / SQLite"]
+    UI["UI Layer\nActivity / Fragment / XML"] --> VM["ViewModel\nStateFlow / LiveData"]
+    VM --> UC["Use Cases\nBusiness Logic"]
+    UC --> REPO["Repository\nSingle Source of Truth"]
+    REPO --> API["Remote Data Source\nRetrofit / OkHttp"]
+    REPO --> DB["Local Data Source\nRoom / SQLite"]
 
     style UI fill:#3DDC84,color:#073042,stroke:#3DDC84,stroke-width:2px
     style VM fill:#4285F4,color:#ffffff,stroke:#4285F4,stroke-width:2px
@@ -103,11 +86,7 @@ flowchart LR
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -134,11 +113,7 @@ flowchart LR
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     FEATURED PROJECTS                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -146,7 +121,7 @@ flowchart LR
 <tr>
 <td width="33%" align="center" valign="top">
 
-### 🎬 MediaToolKit App
+### MediaToolKit App
 
 **Android media processing app focused on video picking, preview, trimming, and local history tracking.**
 
@@ -168,7 +143,7 @@ Built with clean state management and background processing — handling media f
 </td>
 <td width="33%" align="center" valign="top">
 
-### 🛵 Gas Delivery App
+### Gas Delivery App
 
 <br/>
 
@@ -191,7 +166,7 @@ Includes customer and distributor app flows, order management, Google Maps integ
 </td>
 <td width="33%" align="center" valign="top">
 
-### 📍 Talabati App
+### Talabati App
 
 <br/>
 
@@ -220,11 +195,7 @@ Contributed to map-based location display, GPS distance calculation, direction g
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FREELANCE EXPERIENCE                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## ⭐ Freelance Android Experience
+## Freelance Android Experience
 
 <div align="center">
 
@@ -242,11 +213,7 @@ Contributed to map-based location display, GPS distance calculation, direction g
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         EDUCATION                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🎓 Education
+## Education
 
 <div align="center">
 
@@ -261,11 +228,7 @@ Contributed to map-based location display, GPS distance calculation, direction g
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       GITHUB STATS                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -277,25 +240,15 @@ Contributed to map-based location display, GPS distance calculation, direction g
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      CONNECT WITH ME                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🤝 Let's Connect
-
-<div align="center">
+## Let's Connect
 
 I'm open to **Android Developer opportunities**, **freelance projects**, and **technical collaboration**.
 
-<br/>
+**LinkedIn:** [Ibrahim Awad](https://www.linkedin.com/in/ibrahim-awad-devsecx/)  
+**Email:** [ibrahim.devsecx@outlook.com](mailto:ibrahim.devsecx@outlook.com)
 
-📫 **Email:** [ibrahim.devsecx@outlook.com](mailto:ibrahim.devsecx@outlook.com)
+---
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim%20Awad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-awad-devsecx/)
-[![GitHub](https://img.shields.io/badge/GitHub-ibrahim--devsecx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-devsecx)
-
-<br/>
-
-</div>
+<p align="center">
+  <em>"First, solve the problem. Then, write the code." — John Johnson</em>
+</p>
