@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ibrahim--awad--devsecx-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-awad-devsecx/)
 [![Email](https://img.shields.io/badge/Email-ibrahim.devsecx%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ibrahim.devsecx@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ibrahim--devsecx-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-devsecx)
-[![Profile Views](https://komarev.com/ghpvc/?username=ibrahim-devsecx&style=for-the-badge&color=6f7f88&label=PROFILE+VIEWS)](https://github.com/ibrahim-devsecx)
+<!-- [![Profile Views](https://komarev.com/ghpvc/?username=ibrahim-devsecx&style=for-the-badge&color=6f7f88&label=PROFILE+VIEWS)](https://github.com/ibrahim-devsecx) -->
 
 </div>
 
