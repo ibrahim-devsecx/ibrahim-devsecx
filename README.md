@@ -246,15 +246,6 @@ Contributed to map-based location display, GPS distance calculation, direction g
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-devsecx&theme=tokyonight&hide_border=false&border_radius=6&stroke=ffffff&ring=70a5fd&fire=70a5fd&currStreakNum=c792ea&sideNums=70a5fd&currStreakLabel=c792ea&sideLabels=70a5fd&dates=40e0d0" width="70%" alt="Ibrahim's GitHub Streak" />
 
 <br/>
-<br/>
-
-<a href="https://github.com/ibrahim-devsecx">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-devsecx&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=false&custom_title=Contribution%20Graph" width="95%" alt="Ibrahim's Contribution Graph" />
-</a>
-
-</div>
-
-<br/>
 
 ---
 
